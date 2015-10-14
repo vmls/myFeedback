@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myFeedback</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_text">Hi, user asked for the feedback</string>
+    <string name="app_link"><a href="http://www.google.com">http://random431@_link</a></string>
+    <string name="app_id_parse">8w9rLNj4pewCdOnRvznSPCA9wn52C0hhU81ROGQ0</string>
+    <string name="client_key">6BMqLloAGQdNcSNiBPa2kTiDQgiVP3I5lC1km4qe</string>
+
+</resources>
